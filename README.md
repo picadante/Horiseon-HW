@@ -33,4 +33,4 @@ Separated the sections to identify the different commands by commenting out
 [image](https://user-images.githubusercontent.com/95456899/146626123-1f3edb69-87e2-4084-9898-94ef3102b45d.png)
 
 # Site
-file:///C:/Users/daparicio/bootcamp/Homework/Horiseon-HW/index.html#social-media-marketing
+
