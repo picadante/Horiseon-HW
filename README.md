@@ -34,3 +34,5 @@ Separated the sections to identify the different commands by commenting out
 
 # Site
 
+https://github.com/picadante/Horiseon-HW
+https://picadante.github.io/Horiseon-HW/
